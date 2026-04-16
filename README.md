@@ -82,7 +82,7 @@ The **SPAI Peony Line Art Generator** is a specialized AI platform that transfor
 
 <details>
 <summary><strong>生成的牡丹线稿是否支持高清打印？</strong></summary>
-<p>支持。我们提供高分辨率输出，生成的线条清晰无毛刺，完全满足 A4、A3 甚至更大规格的打印需求。</p>
+<p>支持。我们提供高分辨率输出，生成的线条清晰无毛刺，完全满足 A4、A3 甚至更大规格的打印需求</p>
 </details>
 
 <details>
