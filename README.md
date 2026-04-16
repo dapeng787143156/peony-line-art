@@ -50,7 +50,7 @@ The **SPAI Peony Line Art Generator** is a specialized AI platform that transfor
 | ![工笔白描牡丹](https://img.sipingseo.com/file/peony-line-art-generator/jJJz3Box.webp) | ![精细白描细节](https://img.sipingseo.com/file/peony-line-art-generator/C21yem0P.webp) |
 
 #### 2. 写意水墨 (Xieyi / Ink Wash Style)
-笔墨灵动洒脱，展现东方绘画的写意精神与虚实意境。
+笔墨灵动洒脱，展现东方绘画的写意精神与虚实意境
 | 示例 1 | 示例 2 |
 | :---: | :---: |
 | ![写意水墨牡丹](https://img.sipingseo.com/file/peony-line-art-generator/amRGIJG7.webp) | ![大写意动态](https://img.sipingseo.com/file/peony-line-art-generator/m2e6TNS6.webp) |
