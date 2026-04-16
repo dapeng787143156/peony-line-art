@@ -77,7 +77,7 @@ The **SPAI Peony Line Art Generator** is a specialized AI platform that transfor
 
 <details>
 <summary><strong>生成的线稿可以用于商业制作吗？</strong></summary>
-<p>可以。生成的线稿授予用户完整商业使用权，可安全用于刺绣底稿、包装设计、纹身图案等商业项目。</p>
+<p>可以。生成的线稿授予用户完整商业使用权，可安全用于刺绣底稿、包装设计、纹身图案等商业项目</p>
 </details>
 
 <details>
