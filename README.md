@@ -69,7 +69,7 @@ The **SPAI Peony Line Art Generator** is a specialized AI platform that transfor
 4.  **生成并下载**: 点击“生成线稿”，满意后免费下载高清原图
 
 ### ⚙️ 专业的 AI 绘制引擎
-*   **Seedream 4.5**: 擅长处理复杂的工笔细节与多层花瓣。
+*   **Seedream 4.5**: 擅长处理复杂的工笔细节与多层花瓣
 *   **Flux-Kontext**: 专注于写实白描与真实线条质感。
 *   **Nano Banana Pro**: 适合快速生成装饰纹样与扁平化风格。
 
