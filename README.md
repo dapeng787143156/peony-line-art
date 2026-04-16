@@ -19,7 +19,7 @@ The **SPAI Peony Line Art Generator** is a specialized AI platform that transfor
 
 ### Key Features
 *   **✨ Text-to-Floral Sketch:** Describe the peony's pose, petals, and style, and the AI renders it instantly.
-*   **🎭 Multi-Technique Support:** Choose from **Traditional Baimiao**, **Ink Wash (Xieyi)**, **Embroidery Patterns**, and **Minimalist Logos**.
+*   **🎭 Multi-Technique Support:** Choose from **Traditional Baimiao**, **Ink Wash (Xieyi)**, **Embroidery Patterns**, and **Minimalist Logos**
 *   **⚡ Professional Quality:** Generate high-resolution, clear outlines in 20-30 seconds
 *   **📦 Commercial Usage:** Generated sketches come with full commercial rights for embroidery, design, and merchandise
 *   **💰 100% Free & No Login:** Access premium AI drawing features online without any subscription or installation.
