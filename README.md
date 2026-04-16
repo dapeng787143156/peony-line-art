@@ -87,7 +87,7 @@ The **SPAI Peony Line Art Generator** is a specialized AI platform that transfor
 
 <details>
 <summary><strong>如何写出更好的生成指令（Prompt）？</strong></summary>
-<p>建议描述包含：花型姿态（盛开/含苞）、视角（侧视/顶视）、技法（白描/飞白）等。描述越具体，效果越传神</p>
+<p>建议描述包含：花型姿态（盛开/含苞）、视角（侧视/顶视）、技法（白描/飞白）等。。描述越具体，效果越传神</p>
 </details>
 
 ---
