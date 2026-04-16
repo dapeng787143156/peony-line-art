@@ -56,7 +56,7 @@ The **SPAI Peony Line Art Generator** is a specialized AI platform that transfor
 | ![写意水墨牡丹](https://img.sipingseo.com/file/peony-line-art-generator/amRGIJG7.webp) | ![大写意动态](https://img.sipingseo.com/file/peony-line-art-generator/m2e6TNS6.webp) |
 
 #### 3. 装饰纹样与现代极简 (Patterns & Minimalist)
-从团花锦簇到单线勾勒，满足品牌标识、印花及激光雕刻的现代需求。
+从团花锦簇到单线勾勒，满足品牌标识、印花及激光雕刻的现代需求
 | 装饰团花纹样 | 现代极简线条 |
 | :---: | :---: |
 | ![装饰纹样牡丹](https://img.sipingseo.com/file/peony-line-art-generator/I2dibA1h.webp) | ![现代极简牡丹](https://img.sipingseo.com/file/peony-line-art-generator/yMzxEbK7.webp) |
