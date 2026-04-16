@@ -44,7 +44,7 @@ The **SPAI Peony Line Art Generator** is a specialized AI platform that transfor
 我们的 AI 模型经过海量传统艺术数据训练，能够驾驭牡丹花的各种形态：
 
 #### 1. 工笔白描 (Gongbi / Meticulous Style)
-花瓣层次清晰可辨，线条细劲流畅，是刺绣和工笔画创作的专业底稿。
+花瓣层次清晰可辨，线条细劲流畅，是刺绣和工笔画创作的专业底稿
 | 示例 1 | 示例 2 |
 | :---: | :---: |
 | ![工笔白描牡丹](https://img.sipingseo.com/file/peony-line-art-generator/jJJz3Box.webp) | ![精细白描细节](https://img.sipingseo.com/file/peony-line-art-generator/C21yem0P.webp) |
