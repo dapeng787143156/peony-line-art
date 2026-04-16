@@ -5,7 +5,7 @@
 [![Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://www.sipingseo.com/zh/line-art-generator/peony-line-art-generator)
 [![Rating](https://img.shields.io/badge/rating-4.9%2F5-brightgreen)](https://www.sipingseo.com/zh/line-art-generator/peony-line-art-generator)
 
-**SPAI 牡丹花线稿助理是一款基于人工智能技术的在线创作工具。无论您是国画学习者、刺绣爱好者、纹身师还是平面设计师，只需输入文字描述或上传参考图，AI 即可在 20 秒内为您生成精美、专业的牡丹花线稿。支持工笔白描、写意勾勒、装饰纹样等多种技法，完美传承东方美学**
+**SPAI 牡丹花线稿助理是一款基于人工智能技术的在线创作工具。无论您是国画学习者、刺绣爱好者、纹身师还是平面设计师，只需输入文字描述或上传参考图，AI 即可在 20 秒内为您生成精美、专业的牡丹花线稿。支持工笔白描、写意勾勒、装饰纹样等多种技法，完美传承东方美学  。**
 
 ## ➡️ **[立即生成牡丹花线稿 | Start Generating Peony Line Art](https://www.sipingseo.com/zh/line-art-generator/peony-line-art-generator)**
 
